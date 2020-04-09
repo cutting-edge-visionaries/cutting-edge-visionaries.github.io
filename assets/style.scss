@@ -43,9 +43,14 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: adobe-caslon-pro,serif;
-	font-weight: 600;
+// 	font-family: acuta, serif;
+// 	font-weight: 700;
+// 	font-style: normal;
+	font-family: acuta, serif;
+	font-weight: 400;
 	font-style: normal;
+	
+	
 //   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: $darkerGray;
 //   font-weight: bold;
