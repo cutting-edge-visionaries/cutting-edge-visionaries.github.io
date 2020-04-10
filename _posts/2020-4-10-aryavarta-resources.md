@@ -1,4 +1,10 @@
-# AryavartaResources
+---
+layout: post
+title:  Aryavarta Resources
+categories: [Aryavarta,Finance, Economics, Books]
+---
+
+
 This is an exhaustive list of resources for CEV's Aryavarta from the world of Finance and Economics. We regularly update it to suit our daily discussions in Aryavarta.
 
 ## MOOCs
