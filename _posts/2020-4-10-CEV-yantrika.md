@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Apply at CEV Yantrika
-categories: [Yantrika,IoT, AI, ML, Blockchain, Cyber Security, Formal Methods, ]
+categories: [Yantrika, IoT, AI, ML, Blockchain, Cyber Security, Formal Methods, ]
 author: Priyansh Acharya
 ---
 
@@ -31,7 +31,7 @@ CEV Yantrika does & discuss all those cool stuff that helps may help you in deve
 Probably the new era of technology has come... 
 From the robots to all famous applications you use; Insta, YouTube, Facebook, etc. Even your next smart TV or Refridgerator, they all use these things for better User Experience. 
 
-CEV Yantrika help you work in a peer to understand these and work on the automation of the future.
+CEV Yantrika helps you work in a peer to understand these and work on the automation of the future.
 
 ### 3. Cyber Security 
 
@@ -64,7 +64,7 @@ Get a peer & participate in the biggest hackathons.
 
 ### 7. Capture the Flag 
 
-CTF is another race of competitions focused on Hacking. You want to find errors, win bounties? Well, CTFs are your way to go and get into Hacking, Cracking and Breaking.
+CTF is another race of competitions focused on Hacking. Do you want to find errors, win bounties? Well, CTFs are your way to go and get into Hacking, Cracking and Breaking.
 
 Yantrika has a small group of people, participating in CTFs every weekend. Learn and Grow. Solve with your critical ability.
 
