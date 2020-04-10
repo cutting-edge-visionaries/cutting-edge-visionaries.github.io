@@ -84,4 +84,4 @@ As the examples speak the most, our recent 20 days blog-series was an intersecti
 
 CEV, as a whole, lives on a Cutting Edge Vision, to see and make the future technology. 
 
-All the 3 divisions Aryavarta, Aantarak, Yantrika works together to deduce the solutions. Our latest project on traffic analysis, combines the study of Civil Engineering(AANTARAK), ANALYSIS(AARYAVARTA) & IoT(YANTRIKA).
+All the 3 divisions Aryavarta, Aantarak, Yantrika works together to deduce the solutions. Our latest project on traffic analysis, combines the study of Civil Engineering(AANTARAK), Analysis(ARYAVARTA) & IoT(YANTRIKA).
