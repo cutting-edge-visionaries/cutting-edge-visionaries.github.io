@@ -95,7 +95,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #222;
+  color: #eee;
 }
 
 p {
@@ -114,19 +114,19 @@ table tr {
 }
 
 table tr:nth-child(2n) {
-	background-color: #f8f8f8;
+	background-color: #010101;
 }
 
 table tr th {
 	font-weight: bold;
-	border: 1px solid #cccccc;
+	border: 1px solid #eeeeee;
 	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
 }
 
 table tr td {
-	border: 1px solid #cccccc;
+	border: 1px solid #eeeeee;
 	text-align: left;
 	margin: 0;
 	padding: 6px 13px;
@@ -158,16 +158,16 @@ table tr td :last-child {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 1px solid #dedede;
   border-radius: 4px;
   box-sizing: border-box;
   font-size: 18px;
-  background-color: #fff3ff;
+  background-color: #111011;
 }
 
 .share-box {
   font-weight: bold;
-  color: #222;
+  color: #eeeee;
 }
 
 span[data-pullquote] {
@@ -245,7 +245,8 @@ p > img {
 
 .date {
   font-style: italic;
-  color: $gray;
+//   color: $gray;
+	color: #eeeeee;
 }
 
 // Specify the color of the selection
@@ -320,7 +321,8 @@ p > img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+//   color: $darkGray;
+	color: #eeeeee;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -335,7 +337,8 @@ p > img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+//   color: $gray;
+	color: #fefefe;
   font-size: 16px;
 
   @include mobile {
