@@ -5,12 +5,16 @@ categories: [Yantrika,IoT, AI, ML, Blockchain, Cyber Security, Formal Methods, ]
 author: Priyansh Acharya
 ---
 
+**CEV Yantrika** is a team of tech enthusiasts, keen to know and learn techniques & technology used in the fields of computer and electronics. 
 
-## Intro 
+*Have a look after the form to find out what we discuss for great good:*
 
-**CEV|Yantrika** is a team of tech enthusiasts, keen to know and learn techniques & technology used in the fields of computer and electronics. 
+## Apply at CEV Yantrika
 
-*Have a look at what we work on, and discuss for great good:*
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddfLfqiAoybZKuG4B2pHeuhx73TQM1-qW_eMEKFS04rLcuPg/viewform?embedded=true" width="720" height="1450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+## Details
 
 ### 1. Development 
 
