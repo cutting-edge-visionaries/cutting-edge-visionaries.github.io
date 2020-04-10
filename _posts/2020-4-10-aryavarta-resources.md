@@ -2,6 +2,7 @@
 layout: post
 title:  Aryavarta Resources
 categories: [Aryavarta,Finance, Economics, Books]
+author: Viraj Mohile
 ---
 
 
