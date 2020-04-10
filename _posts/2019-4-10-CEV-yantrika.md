@@ -76,6 +76,8 @@ Probably an old science, but almost used everywhere, to understand the system an
 
 ***Ending***
 
+-------
+
 Every once in a while, new technology evolves. One of Yantrika's motives is to discuss & work on intersection these techs to form solutions to real-world problems for future usage. 
 
 As the examples speak the most, our recent 20 days blog-series was an intersection of Blockchain, Cyber Security and Formal Methods. 
