@@ -78,7 +78,7 @@ h2 {
 }
 
 @media (min-width: 769px){
-	.post h2::before,a { .post h2::after {
+	.post h2::before, .post h2::after {
 	    content: "";
 	    display: inline-block;
 	    vertical-align: middle;
