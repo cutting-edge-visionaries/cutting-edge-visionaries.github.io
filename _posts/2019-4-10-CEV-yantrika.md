@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Aryavarta Resources
+title:  Apply at CEV Yantrika
 categories: [Yantrika,IoT, AI, ML, Blockchain, Cyber Security, Formal Methods, ]
 author: Priyansh Acharya
 ---
@@ -9,7 +9,7 @@ author: Priyansh Acharya
 
 *Have a look after the form to find out what we discuss for great good:*
 
-## Apply at CEV Yantrika
+## Application Form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSddfLfqiAoybZKuG4B2pHeuhx73TQM1-qW_eMEKFS04rLcuPg/viewform?embedded=true" width="720" height="1450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
