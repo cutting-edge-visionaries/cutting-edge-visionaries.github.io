@@ -8,7 +8,7 @@ At the end of this series you will be able to build a basic 2D game on your own.
 In this series I will walk you through the steps to build a classic **Space Invader**:space_invader: game which I named ***SPACE-X***.  
 It will look like [this]([https://jrathod9.github.io/Space-X](https://jrathod9.github.io/Space-X)).  
   
-Do **star** :star: [my repo]([https://github.com/jrathod9/Space-X](https://github.com/jrathod9/Space-X)) if you liked the game.  
+Do **star** :star: [my repo](https://github.com/jrathod9/Space-X) ([https://github.com/jrathod9/Space-X](https://github.com/jrathod9/Space-X)) if you liked the game.  
   
 Let's get started :rocket:  
   
@@ -24,7 +24,7 @@ Let's get started :rocket:
 ```  
 Get these folders and files ready. As of now we won't be using any assets, we will instead use javascript functions to create shapes.  
   
-**This game without any images can be played** [here](https://codepen.io/jrathod9/full/jXwMWQ) [https://codepen.io/jrathod9/full/jXwMWQ](https://codepen.io/jrathod9/full/jXwMWQ)
+**This game without any images can be played** [[here]](https://codepen.io/jrathod9/full/jXwMWQ) [https://codepen.io/jrathod9/full/jXwMWQ](https://codepen.io/jrathod9/full/jXwMWQ)
   
   
 The **index.html** file will look something like :  
@@ -90,7 +90,8 @@ c.lineTo(x,y); //Draws line from current context cursor coordinate to (x,y)
 ```  
 > ***NOTE** : It is better to use **beginPath()** and **closePath()** separately for each connected figure.*  
   
-A few sample code snippets: **[Code Link](https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Sample%20Code)** [https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Sample%20Code](https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Sample%20Code)
+A few sample code snippets: **[Code Link](https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Sample%20Code)** 
+
 Location in repository: **\Phase 1\Sample Code**  
   
 
