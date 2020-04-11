@@ -166,7 +166,8 @@ draw(); //Initial function call
 Result :  
 ![https://github.com/jrathod9/Making-of-Space-X-/blob/master/Phase%201/Atom%20Particle/MovingAtom.gif?raw=true](https://github.com/jrathod9/Making-of-Space-X-/blob/master/Phase%201/Atom%20Particle/MovingAtom.gif?raw=true)
 In every consecutive function call, x coordinate of atom is incremented by the value of **xspeed** variable. To increase the speed, increase the value of xspeed.  
-Here is the source code : **[Code link]([https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Atom%20Particle)**](https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Atom%20Particle)**)  
+Here is the source code : **[Code link](https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Atom%20Particle)** **([https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Atom%20Particle])(https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Atom%20Particle)**)  
+
 Location in repository : **\Phase 1\Atom Particle**  
   
 Similarly if you introduce a variable **yspeed**, which updates the y coordinate of atom, it will lead to a uniform straight line motion in the **2d plane**.  
