@@ -24,7 +24,7 @@ Let's get started :rocket:
 ```  
 Get these folders and files ready. As of now we won't be using any assets, we will instead use javascript functions to create shapes.  
   
-**This game without any images can be played [here]([https://codepen.io/jrathod9/full/jXwMWQ).**](https://codepen.io/jrathod9/full/jXwMWQ).**)  
+**This game without any images can be played** [here]([https://codepen.io/jrathod9/full/jXwMWQ)](https://codepen.io/jrathod9/full/jXwMWQ))
   
   
 The **index.html** file will look something like :  
