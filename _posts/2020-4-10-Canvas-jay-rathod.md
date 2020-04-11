@@ -24,7 +24,7 @@ Let's get started :rocket:
 ```  
 Get these folders and files ready. As of now we won't be using any assets, we will instead use javascript functions to create shapes.  
   
-**This game without any images can be played** [here]([https://codepen.io/jrathod9/full/jXwMWQ)](https://codepen.io/jrathod9/full/jXwMWQ))
+**This game without any images can be played** [here](https://codepen.io/jrathod9/full/jXwMWQ) [https://codepen.io/jrathod9/full/jXwMWQ](https://codepen.io/jrathod9/full/jXwMWQ)
   
   
 The **index.html** file will look something like :  
@@ -90,7 +90,7 @@ c.lineTo(x,y); //Draws line from current context cursor coordinate to (x,y)
 ```  
 > ***NOTE** : It is better to use **beginPath()** and **closePath()** separately for each connected figure.*  
   
-A few sample code snippets: **[Code Link]([https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Sample%20Code)**](https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Sample%20Code)**)  
+A few sample code snippets: **[Code Link](https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Sample%20Code)** [https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Sample%20Code](https://github.com/jrathod9/Making-of-Space-X-/tree/master/Phase%201/Sample%20Code)
 Location in repository: **\Phase 1\Sample Code**  
   
 
