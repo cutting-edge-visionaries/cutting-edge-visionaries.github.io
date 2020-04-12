@@ -2,7 +2,7 @@
 layout: post
 title:  Apply at CEV Yantrika
 categories: [Yantrika, IoT, AI, ML, Blockchain, Cyber Security, Formal Methods, ]
-author: Priyansh Acharya
+author: Priyansh, Shivansh
 ---
 
 Hey Guys! Team CEV here... 🤖
@@ -11,37 +11,44 @@ Hey Guys! Team CEV here... 🤖
 
 Let's get started with a new thing... 🤝
 
-CEV Yantrika is bringing up another good opportunity for ambitious students to join CEV.
+**CEV Yantrika** is bringing up another good opportunity for ambitious students to join CEV.
 This time in another lucrative way.
 
+
+------
 ***"CEV Yantrika is a team of tech enthusiasts, keen to know and learn techniques & technology used in the fields of computer and electronics."***
+------
 
 for **CEV enthusiasm to learn >> your current knowledge**
 
-Doesn't matter if you are still a beginner, not in Computer Sciences, or still thinking to start with programming stuff.
+Doesn't matter if you are still a *beginner*, *not in Computer Sciences*, or still thinking to *start with programming stuff*.
 
 If you are enthusiastic about tech and are unique, ready for a challenge every second of a day, CEV might a place for you.
+
 
 *We have a thing coming up, look at the instructions below:*
 
 1) For this, it is compulsory to have an account in both ***GitHub*** and ***DISCORD*** to join **CEVs Digital Workspace**.
    *[Follow the Instructions given below]*
+  -> *[Make an account on GitHub]*
+      > [https://github.com/join](https://github.com/join)
+
+  -> *[Follow the instructions in the link to join DISCORD channel]*
+      > [https://bit.ly/3edKlZl](https://bit.ly/3edKlZl)
+
 
 2) Fill out the following form below
+
    **_before April 14 11:59:59 pm_**
 
--> *[Make an account on GitHub]*
-> https://github.com/join
 
--> *[Follow the instructions in the link to join DISCORD channel]*
-> https://bit.ly/3edKlZl
 
 That's it. 🙌
 
-Follow up information will be conveyed through E-Mails/Discord Server 📧
+Follow up information will be conveyed through **E-Mails/Discord Server** 📧
 
 
-*Have a look after the form to find out what we discuss for great good:*
+*Have a look after the form to find out what we discuss here at YANTRIKA for great good:*
 
 ## Application Form
 
