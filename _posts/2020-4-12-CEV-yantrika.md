@@ -14,7 +14,7 @@ Let's get started with a new thing... 🤝
 **CEV Yantrika** is bringing up another good opportunity for ambitious students to join CEV.
 This time in another lucrative way.
 
-![CEV Yantrika](/images/pp.jpeg)
+![CEV Yantrika](/images/pp.png)
 
 ------
 ***"CEV Yantrika is a team of tech enthusiasts, keen to know and learn techniques & technology used in the fields of computer and electronics."***
