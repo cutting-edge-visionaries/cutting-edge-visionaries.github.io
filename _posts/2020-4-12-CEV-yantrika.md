@@ -30,7 +30,9 @@ If you are enthusiastic about tech and are unique, ready for a challenge every s
 *We have a thing coming up, look at the instructions below:*
 
 1) For this, it is compulsory to have an account in both ***GitHub*** and ***DISCORD*** to join **CEVs Digital Workspace**.
+
    *[Follow the Instructions given below]*
+   
   -> *[Make an account on GitHub]*
       > [https://github.com/join](https://github.com/join)
 
