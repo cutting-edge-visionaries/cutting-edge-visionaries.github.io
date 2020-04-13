@@ -10,14 +10,14 @@ author: Aman Pandey
 
   
 
--   Make sure your ***GitHub account*** is ready and you have joined the ***Discord Server: CEV Digital Workspace 2.*** *[see the DISCORD GUIDELINE]*  
+-   Make sure your ***GitHub account*** is ready and you have joined the ***Discord Server: CEV Digital Workspace 2.*** *[see the [DISCORD GUIDELINE](https://bit.ly/3edKlZl)]*  
       
     
 -   ***Week 0*** is optional. However, it isn’t much you can complete it in a go.  
 *[no submissions for week 0]*  
       
     
--   ***Week 1 [C]*** Start with watching the **Main Video**. Followed by Completing the **Shorts**. Make sure to go through the notes and submit the assignments in time. *[see the SUBMISSION GUIDELINES]*  
+-   ***Week 1 [C]*** Start with watching the **Main Video**. Followed by Completing the **Shorts**. Make sure to go through the notes and submit the assignments in time. *[see the SUBMISSION GUIDELINES]* ***(to be revealed soon)*** *(we have our own `cevsubmit` just like `submit50`).
     ![](https://lh5.googleusercontent.com/Eb_Zaxy_ysLhNTZHgERHNXhHA8RjPt7gg19vGS6ct3CeO7Mj1StavE-_g_mS0T6htysTU5R3Ow_uLVOsKKHp1kIx8X5uxMZIHoiYtNJ1zzAClVFW-y1gzemqV12TgaexSILaV2f8)  
     [*Main video*]  
     ![](https://lh4.googleusercontent.com/iovnlZXu27u-6wvjO4mJpRJaKnYMD8ruulrkGEaM8Ngs5uFPWMDQYfmZ2gJgA59UDPK7FYElZV2KprJdDvMzRwaizrz2HP_6NJUVF8BWmML9K8KrFRSdWN8KHM5LiMN08vwR-Rvr)  
