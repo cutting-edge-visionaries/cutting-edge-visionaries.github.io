@@ -5,7 +5,7 @@ category: Aryavarta
 author: Chirag Mulchandani
 ---
 
-#### Leaning Resources
+#### Leraning Resources
 - [Investopedia](https://www.investopedia.com/)
 - Financial Markets[(Course Link)](https://www.coursera.org/learn/financial-markets-global?)
 - Introduction to Financial Accounting[(Course Link)](https://www.coursera.org/learn/wharton-accounting?)
